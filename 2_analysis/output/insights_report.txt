@@ -1,0 +1,34 @@
+HOSPITAL MANAGEMENT SYSTEM - ANALYSIS REPORT
+============================================================
+Report Generated: 2026-01-11 16:13:50
+============================================================
+
+
+1. PATIENT INSIGHTS:
+   - Total active patients: 9,512
+   - Largest age group: 60+ (3,420 patients)
+   - Most common blood group: B-
+   - Top city: Ahmedabad (1,322 patients)
+
+2. APPOINTMENT INSIGHTS:
+   - Completion rate: 84.9%
+   - No-show rate: 5.1% (Target: <5%)
+   - Peak hours: [16, 9, 14]
+   - Busiest day: Friday
+
+3. REVENUE INSIGHTS:
+   - Collection rate: 84.8%
+   - Outstanding amount: INR 18,551,137.50
+   - Average bill value: INR 6,084.80
+   - Top payment method: Cash
+
+4. OPERATIONAL INSIGHTS:
+   - Bed occupancy: 27.7%
+   - Average length of stay: 7.5 days
+   - Current admissions: 22
+
+5. RECOMMENDATIONS:
+   - [!WARN!] High no-show rate! Implement reminder system.
+   - [OK] Collection rate is healthy.
+   - [OK] Bed capacity is manageable.
+   - Consider adding more doctors in Orthopedic Surgeon department.
